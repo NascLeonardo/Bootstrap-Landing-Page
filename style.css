@@ -1,0 +1,16 @@
+a{
+  color: purple ;
+}
+.btn-primary{
+  background-color: purple ;
+  border-color: purple;
+}
+strong{
+  color: purple ;
+}
+img:hover{
+  filter:brightness(1.5)
+}
+img{
+transition: filter 2s
+}
